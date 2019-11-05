@@ -1,2 +1,4 @@
 # arcpro
-Datos del curso y manual de ArcGIS Pro
+Es repositorio contiene los datos de los ejercicios empleados en el curso y manual de ArcGIS Pro.
+
+www.arcgeek.com
