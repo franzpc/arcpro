@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230301</CreaDate><CreaTime>17395100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\Rename" Date="20230301" Time="173951">Rename D:\SIG\ArcPro\10_geoprocesamiento\clip.shp D:\SIG\ArcPro\10_geoprocesamiento\clip_recorte.shp ShapeFile</Process></lineage></DataProperties></Esri></metadata>
